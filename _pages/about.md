@@ -9,17 +9,18 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> Department of Software Engineering - N2-L0</p>
+    <p>Jordan University of Science and Technology</p>
+    <p>P.O.Box 3030, Irbid 22110, Jordan</p>
+    <p>Tel: +962 2 7201000</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey there 👋, I'm an assistant professor of software engineering at [Jordan University of Science and Technology](https://www.just.edu.jo/). I received my Ph.D. in software engineering from [Auburn University](https://www.auburn.edu).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My main research interests include cybersecurity, software engineering, and artificial intelligence.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition to my research, I'm also dedicated to teaching and mentoring students. I teach courses in the area of [software engineering and programming](/_pages/teaching.md) and supervised many undergraduate and graduate students in their projects.
