@@ -2,96 +2,101 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Hamza Alkofahi
     - name: Languages
-      value: English, German
+      value: English, Arabic
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Software Engineering
+      institution: Auburn University, Auburn, Alabama
+      year: 2017-2020
+    - title: M.Sc. in Software Engineering
+      institution: Auburn University, Auburn, Alabama
+      year: 2015-2016
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Minor in Information Assurance
+    - title: B.Sc. in Software Engineering
+      institution: Jordan University of Science & Technology, Irbid, Jordan
+      year: 2009-2013  
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistant Professor - Software Engineering Department
+      institution: Jordan University of Science & Technology, Irbid, Jordan
+      year: 2020-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Teaching: Software Security, Software Testing, Software Requirements Engineering (restructured the course), Object-oriented Programming, C/C++ Programming, Introduction to IT.
+        - Graduation Project Supervisor: supervised more than ten projects indifferent domains, such as Critical Infrastructure Protection, Resource Management, and Information System Management.
+    
+    - title: Graduate Research Assistant - College of Engineering
+      institution: Auburn University, Auburn, Alabama
+      year: 2015-2020
       description:
-        - Description 1.
-        - Description 2.
+        - Developed a novel approach to automate detecting business logic vulnerabilities from a black-box perspective.
+        - Designed a new approach to infer Business Rules from web applica tions only using its dynamic behavior.
+        - Reverse engineered Amazon Dash button to study the possibility of implanting permanent malware into its firmware.
+        - Taught a graduate-level course on Software Reverse Engineering & Malware Analysis. Received a very good in the student evaluation.
+        - Developed a Java-based framework for pentesting 3D printers, which I used to reverse engineer & attack Stratasys Dimension Elite 3DPrinter.
+        - Built the first open-source CMB file format decoder for Stratasys 3D printers.
+        - Designed an Arduino-based embedded system for automated car jamming detection.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Cyber Red Team Analyst - Office of Information Technology
+      institution: Auburn University, Auburn, Alabama
+      year: 2016-2020
+      description:
+        - Responsible for finding vulnerabilities in Auburn University web ser vices. Detected several vulnerabilities ranging from critical to low and contributed to the patching process. Thanks for that; I got my Ph.D. expenses covered.
+        - Lead a red team of grad & undergrad students responsible for find ing vulnerabilities in Hexagon Safety & Infrastructure high-end solu tions(used by governments and SPs across the globe).
+        - The team managed to detect different vulnerabilities, propose possi ble measures, and validate the security fixes.
 
-    - title: Professor of Theoretical Physics
+    - title: Web Application Developer
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
       year: 1911 - 1917
       description:
+        - Built links caching system for Zakzek servers.
+        - Implemented a fast content fetcher module to extract a content summary of web pages.
+        - Implemented and integrated new interface components.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2016
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Departmental Award for the best project at AU Graduate Engineering Research Showcase.
+    - year: 2013
       items: 
-        - Max Planck Medal
+        - Received Best Bachelor Graduation Project in the Software Engineering Department at JUST.
+    - year: 2011
+      items: Achieved first place at NYUAD International Hackathon.
+    - year: 2011
+      items: Achieved third place in Microsoft Jordan Imagine Cup Finals.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items: 
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
 
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Java, C/C++, C#, Python, Assembly, HTML/CSS/JS, SQL
+    - Reverse Engineering, Application Security, Vulnerability Assessment, Cryptography
+    - Kernel Development, Software Development, Web Development, Mobile Development
+    - Network Programming, Parallel Computing, Problem Solving, Design Patterns, Version Control
+
