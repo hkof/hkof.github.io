@@ -1,13 +1,11 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching Experiance
+description: This page list all the courses I taught before.
 nav: true
 nav_order: 5
 ---
-
-# Teaching Teaching Experiance
 
 ### Courses I had taught at Jordan University of Science and Technology 
 
