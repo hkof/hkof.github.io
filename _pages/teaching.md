@@ -7,6 +7,12 @@ nav: true
 nav_order: 5
 ---
 
+<style>
+    table {
+  border-collapse: collapse;
+}
+</style>
+
 ### Courses I had taught at Jordan University of Science and Technology 
 
 | **#**     | **Semester**  | **Course No.**     | **Course Title**                             |
