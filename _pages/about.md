@@ -15,7 +15,7 @@ profile:
     <p>Tel: +962 2 7201000</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -23,4 +23,4 @@ Hey there 👋, I'm an assistant professor of software engineering at [Jordan Un
 
 My main research interests include cybersecurity, software engineering, and artificial intelligence.
 
-In addition to my research, I'm also dedicated to teaching and mentoring students. I teach courses in the area of [software engineering and programming](/_pages/teaching.md) and supervised many undergraduate and graduate students in their projects.
+In addition to my research, I'm also dedicated to teaching and mentoring students. I teach courses in the area of [software engineering and programming](/teaching/) and supervised many undergraduate and graduate students in their projects.

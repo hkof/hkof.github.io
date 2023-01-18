@@ -9,7 +9,7 @@ nav_order: 5
 
 ### Courses I had taught at Jordan University of Science and Technology 
 
-| **#** | **Semester** | **Course No.** | **Course Title**                             |
+| **#**     | **Semester**  | **Course No.**     | **Course Title**                             |
 |-------|--------------|----------------|----------------------------------------------|
 | 1     | Fall 2022/23 | SE430          | Software Testing                             |
 | 2     | Fall 2022/23 | SE112          | Introduction To Object- Oriented Programming |
