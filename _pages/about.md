@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Software Engineering Department
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> Department of Software Engineering - N2-L0</p>
+    <p> Office: N2-L0</p>
     <p>Jordan University of Science and Technology</p>
     <p>P.O.Box 3030, Irbid 22110, Jordan</p>
     <p>Tel: +962 2 7201000</p>
