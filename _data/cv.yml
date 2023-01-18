@@ -28,8 +28,8 @@
       institution: Jordan University of Science & Technology, Irbid, Jordan
       year: 2020-Present
       description:
-        - Teaching: Software Security, Software Testing, Software Requirements Engineering (restructured the course), Object-oriented Programming, C/C++ Programming, Introduction to IT.
-        - Graduation Project Supervisor: supervised more than ten projects indifferent domains, such as Critical Infrastructure Protection, Resource Management, and Information System Management.
+        - Tought the following course, Software Security, Software Testing, Software Requirements Engineering (restructured the course), Object-oriented Programming, C/C++ Programming, Introduction to IT.
+        - Supervised more than ten projects indifferent domains, such as Critical Infrastructure Protection, Resource Management, and Information System Management.
     
     - title: Graduate Research Assistant - College of Engineering
       institution: Auburn University, Auburn, Alabama
@@ -52,8 +52,8 @@
         - The team managed to detect different vulnerabilities, propose possi ble measures, and validate the security fixes.
 
     - title: Web Application Developer
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+      institution: DDAD for Information Technology, Amman, Jordan
+      year: 2013
       description:
         - Built links caching system for Zakzek servers.
         - Implemented a fast content fetcher module to extract a content summary of web pages.
