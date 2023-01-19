@@ -10,7 +10,7 @@ nav_order: 5
 
 ### Courses I had taught at Jordan University of Science and Technology 
 
-| **#**     | **Semester**      | **Course No.**     | **Course Title**                             |
+| **#** | **Semester** | **Course No.** | **Course Title**                             |
 |-------|--------------|----------------|----------------------------------------------|
 | 1     | Fall 2022/23 | SE430          | Software Testing                             |
 | 2     | Fall 2022/23 | SE112          | Introduction To Object- Oriented Programming |
@@ -22,6 +22,7 @@ nav_order: 5
 | 8     | Spring 2021  | SE321          | Software Requirements Engineering            |
 | 9     | Fall 2020/21 | SE321          | Software Requirements Engineering            |
 
+<br/>
 
 ### Graduate Courses I taught at Auburn University
 
