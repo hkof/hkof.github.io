@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: table
 permalink: /teaching/
 title: teaching
 description: This page list all the courses I taught before.
