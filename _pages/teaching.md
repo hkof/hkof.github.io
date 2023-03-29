@@ -10,23 +10,25 @@ nav_order: 5
 
 ### Courses I had taught at Jordan University of Science and Technology 
 
-| **#** | **Semester** | **Course No.** | **Course Title**                             |
-|-------|--------------|----------------|----------------------------------------------|
-| 1     | Fall 2022/23 | SE430          | Software Testing                             |
-| 2     | Fall 2022/23 | SE112          | Introduction To Object- Oriented Programming |
-| 3     | Spring 2022  | SE321          | Software Requirements Engineering            |
-| 4     | Spring 2022  | SE431          | Software Security                            |
-| 5     | Fall 2021/22 | SE321          | Software Requirements Engineering            |
-| 6     | Fall 2021/22 | SE103          | Introduction To Information Technology       |
-| 7     | Spring 2021  | NE114          | Programming For Engineers                    |
-| 8     | Spring 2021  | SE321          | Software Requirements Engineering            |
-| 9     | Fall 2020/21 | SE321          | Software Requirements Engineering            |
+| **Semester** | **Course No.** | **Course Title**                             | **Resources** |
+|--------------|----------------|----------------------------------------------|---------------|
+| Spring 2023  | SE430          | Software Testing                             | [syllabus](/assets/pdf/syllabus/Syllabus_202320222_SE430.pdf)      |
+| Spring 2023  | SE112          | Introduction To Object- Oriented Programming | [syllabus](/assets/pdf/syllabus/Syllabus_202320222_SE112.pdf)      |
+| Fall 2022/23 | SE430          | Software Testing                             |               |
+| Fall 2022/23 | SE112          | Introduction To Object- Oriented Programming |               |
+| Spring 2022  | SE321          | Software Requirements Engineering            | [syllabus](/assets/pdf/syllabus/Syllabus_202220212_SE321.pdf)      |
+| Spring 2022  | SE431          | Software Security                            | [syllabus](/assets/pdf/syllabus/Syllabus_202220212_SE431.pdf)      |
+| Fall 2021/22 | SE321          | Software Requirements Engineering            |               |
+| Fall 2021/22 | SE103          | Introduction To Information Technology       |               |
+| Spring 2021  | NE114          | Programming For Engineers                    |               |
+| Spring 2021  | SE321          | Software Requirements Engineering            |               |
+| Fall 2020/21 | SE321          | Software Requirements Engineering            |               |
 
 <br/>
 
 ### Graduate Courses I taught at Auburn University
 
-| **#** | **Semester** | **Course No.** | **Course Title**                                |
-|-------|--------------|----------------|-------------------------------------------------|
-| 1     | Summer 2018  | COMP7720       | Software Reverse Engineering & Malware Analysis |
+| **Semester** | **Course No.** | **Course Title**                                | **Resources** |
+|--------------|----------------|-------------------------------------------------|---------------|
+| Summer 2018  | COMP7720       | Software Reverse Engineering & Malware Analysis | [syllabus](/assets/pdf/syllabus/Syllabus_2018_COMP7720.pdf)      |
 
